@@ -1,0 +1,2 @@
+Prefix plugins/LIME/example/
+Plugin LIME inputfile categories.txt outputfile oi.html
